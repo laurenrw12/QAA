@@ -1,0 +1,50 @@
+Mapped Reads:  67070894
+Unmapped Reads:  2511420
+	Command being timed: "/projects/bgmp/lwil/bioinfo/Bi621/PS/ps8-laurenrw12/parse.py -f /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_3/alignreads_output/8_Aligned.out.sam"
+	User time (seconds): 66.58
+	System time (seconds): 9.08
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:16.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 16944
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2605
+	Voluntary context switches: 1666
+	Involuntary context switches: 28
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Mapped Reads:  7677917
+Unmapped Reads:  124337
+	Command being timed: "/projects/bgmp/lwil/bioinfo/Bi621/PS/ps8-laurenrw12/parse.py -f /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_3/alignreads_output/22_Aligned.out.sam"
+	User time (seconds): 7.66
+	System time (seconds): 1.09
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 10836
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2611
+	Voluntary context switches: 186
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
