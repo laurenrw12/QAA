@@ -1,0 +1,56 @@
+TrimmomaticPE: Started with arguments:
+ /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/cutadapt_output/out_8_R1.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/cutadapt_output/out_8_R2.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_8_R1_P.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_8_R1_U.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_8_R2_P.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_8_R2_U.fastq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:5:15 MINLEN:35
+Quality encoding detected as phred33
+Input Read Pairs: 36482601 Both Surviving: 34791157 (95.36%) Forward Only Surviving: 1629875 (4.47%) Reverse Only Surviving: 28472 (0.08%) Dropped: 33097 (0.09%)
+TrimmomaticPE: Completed successfully
+	Command being timed: "trimmomatic PE /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/cutadapt_output/out_8_R1.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/cutadapt_output/out_8_R2.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_8_R1_P.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_8_R1_U.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_8_R2_P.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_8_R2_U.fastq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:5:15 MINLEN:35"
+	User time (seconds): 1669.71
+	System time (seconds): 27.21
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 29:37.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 192804
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 43429
+	Voluntary context switches: 50916
+	Involuntary context switches: 54156
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 11168
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+TrimmomaticPE: Started with arguments:
+ /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/cutadapt_output/out_22_R1.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/cutadapt_output/out_22_R2.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_22_R1_P.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_22_R1_U.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_22_R2_P.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_22_R2_U.fastq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:5:15 MINLEN:35
+Quality encoding detected as phred33
+Input Read Pairs: 4050899 Both Surviving: 3901127 (96.30%) Forward Only Surviving: 145058 (3.58%) Reverse Only Surviving: 2876 (0.07%) Dropped: 1838 (0.05%)
+TrimmomaticPE: Completed successfully
+	Command being timed: "trimmomatic PE /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/cutadapt_output/out_22_R1.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/cutadapt_output/out_22_R2.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_22_R1_P.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_22_R1_U.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_22_R2_P.fastq.gz /projects/bgmp/lwil/bioinfo/Bi623/QAA/Part_2/trimmomatic_output/out_22_R2_U.fastq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:5:15 MINLEN:35"
+	User time (seconds): 186.30
+	System time (seconds): 3.09
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:14.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 192284
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 32305
+	Voluntary context switches: 5694
+	Involuntary context switches: 6117
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
